@@ -2,5 +2,38 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akaiy/workspace/ModularDrivenFramework/jars/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
